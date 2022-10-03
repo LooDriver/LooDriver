@@ -12,4 +12,4 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LooDriver&theme=dark&locale=ru"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=LooDriver&langs_count=1"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=LooDriver&langs_count=1&layout=compact"/></a>
