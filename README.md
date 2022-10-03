@@ -7,4 +7,9 @@
     <img src="https://komarev.com/ghpvc/?username=LooDriver&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LooDriver&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### :fire: My Stats :
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LooDriver&theme=dark&locale=ru"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LooDriver&layout=compact&theme=vision-friendly-dark"/></a>
