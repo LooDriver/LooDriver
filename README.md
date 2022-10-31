@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif"/>
+  <img src="https://media.tenor.com/x1QOy0SBJW8AAAAi/toby-fox.gif"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/loodriver">
